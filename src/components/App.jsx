@@ -1,7 +1,7 @@
 import { Component } from 'react';
 
 import { nanoid } from 'nanoid';
-import { Container } from './Сontainer/Container.styled';
+// import { Container } from './Сontainer/Container.styled';
 
 export class App extends Component {
   state = {
@@ -26,7 +26,6 @@ export class App extends Component {
 
   render() {
     return (
-      // <Container>
       <>
         <form onSubmit={this.handleSubmit}>
           <label htmlFor="name">Name:</label>
