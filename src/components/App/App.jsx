@@ -1,6 +1,6 @@
 import { Component } from 'react';
 
-import { GlobalStyleComponent } from '../../styles/styles/GlobalStyles';
+import { GlobalStyleComponent } from '../../styles/GlobalStyles';
 
 import { nanoid } from 'nanoid';
 
