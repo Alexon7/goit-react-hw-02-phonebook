@@ -38,6 +38,6 @@ a {
   overflow: hidden;
 }
 body{
-	background-color: ${({ basicStyles }) => basicStyles.colors.light};
+	background-color:#f2f2f2;
 }
 `;
